@@ -1,0 +1,68 @@
+name:                mokumoku-operator
+version:             0.1.0
+homepage:            https://github.com/matsubara0507/mokumoku-operator#readme
+license:             MIT
+author:              MATSUBARA Nobutada
+maintainer:          nobutada0507@gmail.com
+copyright:           MATSUBARA Nobutada
+category:            Web
+description:         Please see the README on GitHub at <https://github.com/matsubara0507/mokumoku-operator#readme>
+
+extra-source-files:
+- README.md
+- CHANGELOG.md
+
+ghc-options:
+- -Wall
+- -Wcompat
+- -Wincomplete-record-updates
+- -Wincomplete-uni-patterns
+- -Wredundant-constraints
+
+default-extensions:
+- NoImplicitPrelude
+
+- ConstraintKinds
+- DataKinds
+- FlexibleContexts
+- FlexibleInstances
+- GeneralizedNewtypeDeriving
+- LambdaCase
+- MultiWayIf
+- NumericUnderscores
+- OverloadedLabels
+- OverloadedStrings
+- PolyKinds
+- RankNTypes
+- StandaloneDeriving
+- TypeFamilies
+- TypeOperators
+- TypeSynonymInstances
+
+dependencies:
+- base >= 4.7 && < 5
+- rio >= 0.1.1.0
+- extensible >= 0.6
+- mix
+
+library:
+  source-dirs: src
+
+executables:
+  mokumoku-operator:
+    main: Main.hs
+    source-dirs: app
+    dependencies:
+    - mokumoku-operator
+    - githash
+    - dotenv
+
+tests:
+  mokumoku-operator-test:
+    main: Spec.hs
+    source-dirs: test
+    dependencies:
+    - mokumoku-operator
+    - tasty
+    - tasty-hspec
+    other-modules: []
