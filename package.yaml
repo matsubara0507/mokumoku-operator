@@ -44,9 +44,13 @@ dependencies:
 - rio >= 0.1.1.0
 - aeson
 - extensible >= 0.6
+- fallible
 - mix
+- mix-plugin-shell
 - req
 - simple-api
+- slackell
+- yaml
 
 library:
   source-dirs: src

@@ -5,6 +5,13 @@
 
 packages:
 - completed:
+    hackage: fallible-0.1.0@sha256:0e0032c34120a43bf1d446172162b546e36441c38f620afb24e9d447ed7ce6b6,1312
+    pantry-tree:
+      size: 369
+      sha256: 7de6ccd3ae9fa01eafdb02afdd5a50f1f6babf48aeb31afa21d0329f0fdd19d1
+  original:
+    hackage: fallible-0.1.0
+- completed:
     hackage: extensible-0.8@sha256:45ca089909ae434329e4d05dc557be94ff04f24c43ff9b915bd90c0599c83211,2911
     pantry-tree:
       size: 2097
@@ -32,6 +39,19 @@ packages:
     subdir: mix
     url: https://github.com/matsubara0507/mix.hs/archive/a0b2b9394c340186c9a8a63808f0db1752ada4ae.tar.gz
 - completed:
+    size: 8476
+    subdir: mix-plugin-shell
+    url: https://github.com/matsubara0507/mix.hs/archive/a0b2b9394c340186c9a8a63808f0db1752ada4ae.tar.gz
+    name: mix-plugin-shell
+    version: 0.1.0
+    sha256: f879d5d044d8531814a8cd5bbda08ab2a513eb04a150e44526ea0f49961e38a1
+    pantry-tree:
+      size: 383
+      sha256: 7bbce9d5ea01f6432cecf3151b7c93751d508c0b28444436365eebda58f599d8
+  original:
+    subdir: mix-plugin-shell
+    url: https://github.com/matsubara0507/mix.hs/archive/a0b2b9394c340186c9a8a63808f0db1752ada4ae.tar.gz
+- completed:
     size: 8114
     subdir: simple-api
     url: https://github.com/matsubara0507/extensible-ext/archive/a9c5e50696f8205d17628625f5b724ef92557aeb.tar.gz
@@ -44,6 +64,17 @@ packages:
   original:
     subdir: simple-api
     url: https://github.com/matsubara0507/extensible-ext/archive/a9c5e50696f8205d17628625f5b724ef92557aeb.tar.gz
+- completed:
+    size: 13804
+    url: https://github.com/matsubara0507/slackell/archive/6c8aeefa4c44be4f70537bb9879756d53b705c94.tar.gz
+    name: slackell
+    version: 0.1.0
+    sha256: 449ae5cb28ab5545cb812ab8164b7d06bf2861c8222e8f145d97a01ae1ccbf6d
+    pantry-tree:
+      size: 3055
+      sha256: 004cc74095119841e8bd919f709c58084bb49caec60c09860eef35d4dbbf0b5d
+  original:
+    url: https://github.com/matsubara0507/slackell/archive/6c8aeefa4c44be4f70537bb9879756d53b705c94.tar.gz
 snapshots:
 - completed:
     size: 531674
