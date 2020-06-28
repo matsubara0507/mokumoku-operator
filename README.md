@@ -1,5 +1,12 @@
 # mokumoku-operator
 
+```
+$ cd example
+$ stack exec -- mokumoku-operator 2020-07-04
+owner: matsubara0507
+connpass: 第39回Haskell-jpもくもく会 @ オンライン
+```
+
 ## Requirement
 
 ## Usage
