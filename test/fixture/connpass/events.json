@@ -1,0 +1,34 @@
+{
+  "results_start": 1,
+  "results_returned": 1,
+  "results_available": 1,
+  "events": [
+    {
+      "event_id": 180321,
+      "title": "第38回Haskell-jpもくもく会 @ オンライン",
+      "catch": "Haskell-jp Mokumoku kai Online",
+      "description": "<h1>新型コロナウイルスの感染拡大に伴い、今回はオンラインで行います</h1>\n<p>参加するには、<a href=\"https://haskell.jp/signin-slack.html\" rel=\"nofollow\">こちらからHaskell-jpのSlack workspace</a>に登録した上で、<a href=\"https://app.slack.com/client/T4LFB6C4C/CUPBC8WCE\" rel=\"nofollow\">#mokumoku-online</a>チャンネルにjoinしてください。<br>\nなお、#mokumoku-onlineを含め、主要なチャンネルでの発言はすべて <a href=\"https://haskell.jp/slack-log/\" rel=\"nofollow\">https://haskell.jp/slack-log/</a> に保存・公開されます。あらかじめご了承ください。</p>\n<p>なお、受付票はもちろん不要です！</p>\n<h1>Due to the spread of COVID-19, this meetup is held at online.</h1>\n<p>To participate, sign in the <a href=\"https://haskell.jp/signin-slack.html\" rel=\"nofollow\">Slack workspace of us via this link</a>, then join in the <a href=\"https://app.slack.com/client/T4LFB6C4C/CUPBC8WCE\" rel=\"nofollow\">#mokumoku-online</a> channel.<br>\nNote all messages in the main channels including #mokumoku-online are saved and published at <a href=\"https://haskell.jp/slack-log/\" rel=\"nofollow\">https://haskell.jp/slack-log/</a>.</p>\n<p>The reception slip is unnecessary of course!</p>\n<h1>この勉強会について - About this Meetup</h1>\n<p>※この勉強会は<a href=\"https://haskellmokumoku.connpass.com/\" rel=\"nofollow\">Haskellもくもく会</a>を前身としている<a href=\"https://haskell.jp/\" rel=\"nofollow\">Haskell-jp</a>主催の勉強会です。名前が変わっただけで、特に運営方法などに変更はありません。今まで通りHaskellしましょう！<br>\nなお、<a href=\"https://haskell.jp/blog/posts/2017/01-first.html\" rel=\"nofollow\">Haskell-jpを含め今回の詳細についてはこちらを</a>ご覧ください。</p>\n<p>※This meetup originates in <a href=\"https://haskellmokumoku.connpass.com/\" rel=\"nofollow\">Haskell Mokumoku kai</a> and is held by <a href=\"https://haskell.jp/\" rel=\"nofollow\">Haskell-jp</a>. It's just renamed: no changes in how it's held. Let's do Haskell as before!<br>\nSee <a href=\"https://haskell.jp/blog/posts/2017/01-first.html\" rel=\"nofollow\">here for details including about Haskell-jp (in Japanese)</a>.</p>\n<p>趣味や仕事で書いてるプログラムの続きを書く、<br>\n最近気になるあのライブラリを使ってみる、0から勉強してみる、など、<br>\n主に<strong>Haskellに関する作業をもくもくとやったり、希望者でLTを行ったりするゆるい会</strong>です。<br>\nお互い分からない点を協力して解決するのもいいでしょう。<br>\n<strong>途中入退場も問題ありません</strong>。</p>\n<p>This meetup is for anyone who wants to <strong>do something with Haskell</strong> programming language.  <br>\nWrite programs for your hobby or job, use some libraries you are interested in, start learning from scratch - anything is okay.<br>\nWe give you a time if you want to share something.<br>\nOf course, it's welcome to ask about and discuss Haskell with each other!<br>\n<strong>You can enter/leave the venue anytime during the meetup</strong>. </p>\n<h1>タイムテーブル - Schedule</h1>\n<p>12:50～ 開場<br>\n13:00～ 自己紹介（大雑把に何をするのか教えていただきたいです。）<br>\n13:15～ ひたすらもくもく作業<br>\n17:30～ 有志の方により、何をしたのか簡単に成果など発表<br>\n18:00～ 撤収  </p>\n<p>12:50～ Open<br>\n13:00～ Self-introduction - Let's share what you're gonna do!<br>\n13:15～ Do your business!<br>\n18:00～ Finishing up. Share what you've done!</p>\n<h1>参加費用 - Participation Fee</h1>\n<p>今回はオンラインで行うので、もちろん無料です！懇親会はありません。</p>\n<p>Of course free because it's held online! We have no after party this time.</p>\n<h1>ハッシュタグ - Hashtag</h1>\n<p><strong><a href=\"https://twitter.com/search?f=realtime&amp;q=%23hasmoku&amp;src=typd\" rel=\"nofollow\">#hasmoku</a></strong></p>",
+      "event_url": "https://haskell-jp.connpass.com/event/180321/",
+      "started_at": "2020-06-27T13:00:00+09:00",
+      "ended_at": "2020-06-27T18:00:00+09:00",
+      "limit": null,
+      "hash_tag": "hasmoku",
+      "event_type": "participation",
+      "accepted": 7,
+      "waiting": 0,
+      "updated_at": "2020-06-20T19:02:17+09:00",
+      "owner_id": 7810,
+      "owner_nickname": "igrep",
+      "owner_display_name": "YAMAMOTO Yuji",
+      "place": "Haskell-jp Slack Workspace",
+      "address": "オンライン",
+      "lat": null,
+      "lon": null,
+      "series": {
+        "id": 3758,
+        "title": "Haskell-jp",
+        "url": "https://haskell-jp.connpass.com/"
+      }
+    }
+  ]
+}

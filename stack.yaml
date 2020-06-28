@@ -8,6 +8,10 @@ extra-deps:
   commit: a0b2b9394c340186c9a8a63808f0db1752ada4ae
   subdirs:
   - mix
+- github: matsubara0507/extensible-ext
+  commit: a9c5e50696f8205d17628625f5b724ef92557aeb
+  subdirs:
+  - simple-api
 
 docker:
   repo: matsubara0507/stack-build
